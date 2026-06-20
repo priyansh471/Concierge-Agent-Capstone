@@ -1,6 +1,7 @@
 ##**Secure Concierge Agent**
 
 **Project Overview**
+
 This project is an Agentic Concierge System developed for the Google & Kaggle AI Agents hackathon. It functions as a secure, modular personal assistant that orchestrates tasks through a multi-agent framework, ensuring data privacy and efficient workflow management.
 
 **Core Architecture**
@@ -23,3 +24,4 @@ Data Privacy: Proactive masking of sensitive inputs within the processing pipeli
 3. Run the script in your terminal:
    ```bash
    python main.py
+4. Follow the interacive prompts to interact with the Concierge Agent.
